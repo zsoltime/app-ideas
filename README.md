@@ -13,6 +13,7 @@ One of the most important ways to develop your coding skills, build your confide
 - [HTML Snippets](#html-snippets)
 - [Multimedia](#multimedia)
 - [Notifications](#notifications)
+- [Games](#games)
 
 ## HTML Forms
 
@@ -61,5 +62,33 @@ One of the most important ways to develop your coding skills, build your confide
 
 - Pop-up / overlay
 - Flash message / toast
+
+## Games
+
+- Asteroids
+- Blackjack
+- Breakout
+- Colour flood
+- Colour switch
+- Find the pairs
+- Fizzbuzz game
+- Guess the number game
+- Hangman
+- Knight's run
+- Mastermind
+- Maths game
+- Name the colour
+- Pimon game
+- Pong
+- Pop the balloon
+- Puzzle
+- Rock-paper-scissors
+- Simon game
+- Snake game
+- Space invaders
+- Tap the tile game
+- Tic tac toe
+- Tower of Hanoi
+- Typing game
 
 ## <p align="center">🔥 Back End Ideas 🔥</p>
