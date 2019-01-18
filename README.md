@@ -69,16 +69,16 @@ One of the most important ways to develop your coding skills, build your confide
 - Blackjack
 - Breakout
 - Colour flood
-- Colour switch
-- Find the pairs
-- Fizzbuzz game
-- Guess the number game
+- [Colour switch](./colour-switch.md)
+- [Find the pairs](./find-the-pairs.md)
+- [Fizzbuzz game](./fizzbuzz.md)
+- [Guess the colour names](./guess-the-colours.md)
+- Guess the number
 - Hangman
 - Knight's run
 - Mastermind
 - Maths game
-- Name the colour
-- Pimon game
+- [Pimon game](./pimon.md)
 - Pong
 - Pop the balloon
 - Puzzle
@@ -88,7 +88,7 @@ One of the most important ways to develop your coding skills, build your confide
 - Space invaders
 - Tap the tile game
 - Tic tac toe
-- Tower of Hanoi
+- [Tower of Hanoi](./tower-of-hanoi.md)
 - Typing game
 
 ## <p align="center">🔥 Back End Ideas 🔥</p>

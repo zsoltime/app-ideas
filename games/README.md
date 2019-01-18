@@ -1,0 +1,27 @@
+# Game Project Ideas
+
+- Asteroids
+- Blackjack
+- Breakout
+- Colour flood
+- [Colour switch](./colour-switch.md)
+- [Find the pairs](./find-the-pairs.md)
+- [Fizzbuzz game](./fizzbuzz.md)
+- [Guess the colour names](./guess-the-colours.md)
+- Guess the number
+- Hangman
+- Knight's run
+- Mastermind
+- Maths game
+- [Pimon game](./pimon.md)
+- Pong
+- Pop the balloon
+- Puzzle
+- Rock-paper-scissors
+- Simon game
+- Snake game
+- Space invaders
+- Tap the tile game
+- Tic tac toe
+- [Tower of Hanoi](./tower-of-hanoi.md)
+- Typing game
