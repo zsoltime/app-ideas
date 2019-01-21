@@ -91,4 +91,22 @@ One of the most important ways to develop your coding skills, build your confide
 - [Tower of Hanoi](./games/tower-of-hanoi.md)
 - Typing game
 
-## <p align="center">🔥 Back End Ideas 🔥</p>
+## <p align="center">🔥 Plans 🔥</p>
+
+- [ ] Add more categories
+  - APIs
+  - bots
+  - dataviz projects
+  - design to HTML
+  - full stack apps
+- [ ] Every project should have:
+  - a short description
+  - a list of user stories (MVP)
+  - challenges
+- [ ] Create a website with a list of projects where users can:
+  - search/filter by popularity, date added, keywords, etc.
+  - submit their project ideas
+  - add/update user stories
+  - add/update keywords/labels/tags
+  - vote on ideas
+  - submit their finished project
