@@ -14,6 +14,9 @@ One of the most important ways to develop your coding skills, build your confide
 - [Multimedia](#multimedia)
 - [Notifications](#notifications)
 - [Games](#games)
+- [Calculators, Converters, Generators](#calculators-converters-generators)
+- [Date and Time](#date-and-time)
+- [Diaries](#diaries)
 
 ## HTML Forms
 
@@ -86,10 +89,51 @@ One of the most important ways to develop your coding skills, build your confide
 - Simon game
 - Snake game
 - Space invaders
+- Spot the odd
 - Tap the tile game
 - Tic tac toe
 - [Tower of Hanoi](./games/tower-of-hanoi.md)
 - Typing game
+- Word domino
+
+## Calculators, Converters, Generators
+
+- Binary to decimal converter
+- BMI calculator
+- Body fat calculator
+- BPM counter
+- Calculator
+- Character count
+- CHMOD generator
+- CSV to JSON / JSON to CSV converter
+- Currency converter
+- Ebay / PayPal fee calculator
+- Keycode value
+- Loan calculator
+- Lorem ipsum generator
+- Morse to text / text to Morse converter
+- Password generator
+- Random name generator
+- Roman to decimal converter
+- Temperature converter
+
+## Date and Time
+
+- Chess clock
+- Countdown timer
+- Pomodoro app
+- Tabata timer / interval timer
+- Text clock
+- Timer / stopwatch
+
+## Diaries
+
+- Blood pressure diary
+- CBT thought records
+- Food diary
+- Personal diary / journal
+- Push up diary
+- Travel diary
 
 ## <p align="center">🔥 Plans 🔥</p>
 
