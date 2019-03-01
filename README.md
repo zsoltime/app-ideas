@@ -6,7 +6,7 @@ One of the most important ways to develop your coding skills, build your confide
 
 ## <p align="center">🔥 Front End Ideas 🔥</p>
 
-## Table of Contents
+### Table of Contents
 
 - [HTML Forms](#html-forms)
 - [HTML Pages](#html-pages)
@@ -18,7 +18,7 @@ One of the most important ways to develop your coding skills, build your confide
 - [Date and Time](#date-and-time)
 - [Diaries](#diaries)
 
-## HTML Forms
+### HTML Forms
 
 - Contact us form
 - Credit card checkout
@@ -31,7 +31,7 @@ One of the most important ways to develop your coding skills, build your confide
 - Status update form
 - Subscribe to newsletter
 
-## HTML Pages
+### HTML Pages
 
 - 404 page
 - Activity feed
@@ -43,12 +43,13 @@ One of the most important ways to develop your coding skills, build your confide
 - Receipt / invoice
 - Shopping cart
 
-## HTML Snippets
+### HTML Snippets
 
 - Breadcrumbs
 - Info card
 - Loader
 - Pagination
+- Placeholder loading animation
 - Pricing table
 - Progress bar
 - Quote
@@ -56,17 +57,17 @@ One of the most important ways to develop your coding skills, build your confide
 - User profile
 - Verification code
 
-## Multimedia
+### Multimedia
 
 - Music player
 - Video player
 
-## Notifications
+### Notifications
 
 - Pop-up / overlay
 - Flash message / toast
 
-## Games
+### Games
 
 - Asteroids
 - Blackjack
@@ -90,13 +91,13 @@ One of the most important ways to develop your coding skills, build your confide
 - Snake game
 - Space invaders
 - Spot the odd
-- Tap the tile game
+- [Tap the tile](./games/tap-the-tile.md)
 - Tic tac toe
 - [Tower of Hanoi](./games/tower-of-hanoi.md)
 - Typing game
 - Word domino
 
-## Calculators, Converters, Generators
+### Calculators, Converters, Generators
 
 - Binary to decimal converter
 - BMI calculator
@@ -117,7 +118,7 @@ One of the most important ways to develop your coding skills, build your confide
 - Roman to decimal converter
 - Temperature converter
 
-## Date and Time
+### Date and Time
 
 - Chess clock
 - Countdown timer
@@ -126,7 +127,7 @@ One of the most important ways to develop your coding skills, build your confide
 - Text clock
 - Timer / stopwatch
 
-## Diaries
+### Diaries
 
 - Blood pressure diary
 - CBT thought records
@@ -134,6 +135,13 @@ One of the most important ways to develop your coding skills, build your confide
 - Personal diary / journal
 - Push up diary
 - Travel diary
+
+## <p align="center">🔥 Back End Ideas 🔥</p>
+
+### APIs
+
+- [How you doin'?](./apis/how-you-doin.md)
+
 
 ## <p align="center">🔥 Plans 🔥</p>
 
@@ -145,6 +153,7 @@ One of the most important ways to develop your coding skills, build your confide
   - full stack apps
 - [ ] Every project should have:
   - a short description
+  - tier/level (basic, intermediate, advanced)
   - a list of user stories (MVP)
   - challenges
 - [ ] Create a website with a list of projects where users can:
