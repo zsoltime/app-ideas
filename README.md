@@ -113,7 +113,7 @@ One of the most important ways to develop your coding skills, build your confide
 - Loan calculator
 - Lorem ipsum generator
 - Morse to text / text to Morse converter
-- Password generator
+- [Password generator](./generators/password-generator.md)
 - Random name generator
 - Roman to decimal converter
 - Temperature converter
